@@ -32,7 +32,7 @@ public class Paint extends JPanel {
                 }else{
                     cells[x][y].setBlack(true);
                 }
-
+// rgjioergerg90iioefiguer90gui8uugiuehiuwrier
                 repaint();
             }
         });
