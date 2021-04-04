@@ -27,6 +27,7 @@ public class Paint extends JPanel {
                 int x, y;
                 x = Math.round(me.getX() / 10);
                 y = Math.round(me.getY() / 10);
+//                gfrgf
                 if (cells[x][y].isBlack()){
                     cells[x][y].setBlack(false);
                 }else{
